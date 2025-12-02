@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "革命道中 - On The Way",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2025-12-02T08:09:56.889707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "革命道中 - On The Way",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/01_革命道中_-_On_The_Way_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "革命道中 - On The Way (Paused)",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/02_革命道中_-_On_The_Way_(Paused)_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "革命道中",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/03_革命道中_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "革命道中 - On The Way",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/04_革命道中_-_On_The_Way_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "革命道中",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_革命道中_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
